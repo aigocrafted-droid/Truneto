@@ -1,0 +1,6 @@
+{
+  "name": "Truneto - Professional Cleaning Services",
+  "description": "High-end, dynamic home cleaning and general maintenance services website for Truneto in Bengaluru, incorporating live pricing calculators, visual booking sequences, and AI-powered custom cleaning plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
