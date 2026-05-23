@@ -47,7 +47,7 @@ export default function Header({ onScrollToCalculator, onScrollToAIPlanner }: He
             </div>
             <div className="flex flex-col">
               <span className="font-display font-bold text-xl tracking-tight text-slate-900 leading-none">
-                Truneto<span className="text-sky-500">.</span>
+                Truneto
               </span>
               <span className="text-[9px] font-mono tracking-widest text-slate-500 uppercase leading-none mt-1">
                 Bengaluru cleaning Co.

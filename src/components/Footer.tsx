@@ -21,7 +21,7 @@ export default function Footer({ onScrollToCalculator, onScrollToAIPlanner }: Fo
                 </div>
                 <div className="flex flex-col">
                   <span className="font-display font-medium text-xl tracking-tight text-white leading-none">
-                    Truneto<span className="text-sky-400">.</span>
+                    Truneto
                   </span>
                   <span className="text-[10px] font-mono tracking-widest text-slate-500 uppercase leading-none mt-1">
                     Care &amp; Cleanliness
